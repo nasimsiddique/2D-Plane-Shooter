@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56d4b3d8139cfb4693ca0f23af673f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Gunpoint1: {instanceID: 0}
+  - Gunpoint2: {instanceID: 0}
+  - Enemybullet: {instanceID: 0}
+  - Enemyflash: {fileID: 2637060030454303759, guid: dc565c6f0c25e7947bc152dad5efee3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
